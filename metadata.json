@@ -1,0 +1,7 @@
+{
+  "name": "MotionCraft Studio",
+  "description": "Professional web-based motion graphics and video animation editor with multi-track timeline, keyframes, animation presets, and video/GIF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
